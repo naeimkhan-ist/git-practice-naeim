@@ -10,5 +10,3 @@ print("5 - 2 =", subtract(5, 2))
 print("2 * 3 =", multiply(2, 3))
 print("10 / 2 =", divide(10, 2))
 print("10 / 0 =", divide(10, 0))
-
-print("Text")
